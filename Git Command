@@ -1,0 +1,2 @@
+Git Pull & Creat Folder
+$ git clone --branch <branch> <url> <name Folder>
